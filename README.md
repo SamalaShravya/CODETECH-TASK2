@@ -57,6 +57,5 @@ Observe the readings displayed on the LCD screen (if connected).
 Conclusion
 By following these detailed steps, you can build a robust temperature and humidity monitoring system using an Arduino and the DHT sensor. The system can be extended further for real-world applications such as in greenhouse management, weather stations, or environmental monitoring.
 
-[Screenshot 2024-12-18 204119](https://github.com/user-attachments/assets/c288b32f-caa0-48fa-bb48-74a06fb5eb41)
-
+![WhatsApp Image 2024-12-26 at 12 56 25_ffbbe498](https://github.com/user-attachments/assets/dd845f8f-853b-4a78-a59a-1f2302d11d89)
 
