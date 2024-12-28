@@ -22,32 +22,6 @@ Breadboard
 10kΩ potentiometer (for LCD contrast adjustment) (Optional)
 USB cable and a computer for serial monitoring
 
-
-Here is the information personalized for you:
-
-Name: Samala Shravya
-Company: CODTECH IT SOLUTIONS PVT. LTD
-Intern ID: [Your Intern ID]
-Domain: Embedded Systems
-Duration: December to February 2025
-
-Overview of the Project
-Project: Temperature and Humidity Monitoring with DHT Sensor
-Interface a DHT sensor with an Arduino to measure temperature and humidity. Display the readings on an LCD screen or serial monitor.
-
-Project Overview
-This project will interface a DHT sensor with an Arduino board to measure temperature and humidity. The measured values will be displayed on either the serial monitor or an LCD screen. The DHT sensor is widely used for simple temperature and humidity measurement, with models like DHT11 and DHT22 being commonly used. The system can be expanded to include additional features like alarms, data logging, or remote monitoring.
-
-Components Required
-Arduino board (e.g., Uno, Nano, or Mega)
-DHT11 or DHT22 sensor
-16x2 LCD display (optional for showing readings)
-Use an I2C module for easy interfacing.
-Jumper wires
-Breadboard
-10kΩ potentiometer (for LCD contrast adjustment) (Optional)
-USB cable and a computer for serial monitoring
-
 Steps to Test the System
 Assemble the circuit as per the connections.
 Upload the code to your Arduino board using the Arduino IDE.
